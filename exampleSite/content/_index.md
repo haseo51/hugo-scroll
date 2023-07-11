@@ -9,6 +9,6 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Jane Doe"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Test"
+header_headline: "ICTech"
+header_subheadline: "Prestataire de services <b>informatiques</b> et <b>réseaux</b>"
 ---
