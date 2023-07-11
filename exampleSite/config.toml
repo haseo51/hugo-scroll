@@ -3,7 +3,7 @@ baseURL = "https://www.ictech.io"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "fr"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
@@ -12,7 +12,7 @@ theme = "hugo-scroll"
 title = "ICTech - Prestataire de services informatiques et réseaux"
 
 # In order to add version information in the page's footer set to true.
-# enableGitInfo = true
+# enableGitInfo = false
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
