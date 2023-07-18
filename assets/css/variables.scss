@@ -15,19 +15,19 @@
 
 
     /* === sticky top/left navigation menus === */
-    --sticky-menu-text-color: #000000;
+    --sticky-menu-text-color: #575e6a;
 
 
     /* === Alternating content (post) sections  === */
     /* Light section - text color */
-    --section-light-text-color: #000000;
+    --section-light-text-color: #575e6a;
     /* Light section - background color */
-    --section-light-bg-color: #ffffff;
+    --section-light-bg-color: #141b27;
 
     /* Dark section - text color */
-    --section-dark-text-color: #575e6a; /*var(--section-light-bg-color);*/
+    --section-dark-text-color: #080b10; /*var(--section-light-bg-color);*/
     /* Dark section - background color */
-    --section-dark-bg-color: #141b27;
+    --section-dark-bg-color: #575e6a;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
