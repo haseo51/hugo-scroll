@@ -1,5 +1,7 @@
 ---
-title: "About Me"
+title: "Cybersécurité"
+header_menu_title: "Cybersécurité"
+navigation_menu_title: "Cybersécurité"
 weight: 3
 header_menu: true
 ---

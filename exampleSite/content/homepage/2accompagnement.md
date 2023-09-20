@@ -1,7 +1,7 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Accompagnement informatique"
+header_menu_title: "Accompagnement"
+navigation_menu_title: "Accompagnement"
 weight: 2
 header_menu: true
 ---
