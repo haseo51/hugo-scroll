@@ -10,5 +10,5 @@ header_logo: "images/header-logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: ""
-header_subheadline: "Prestataire de services <b>informatiques</b> et <b>réseaux</b> pour les entrepreneurs, TPE et associations"
+header_subheadline: "Prestataire de services <b>informatiques</b> et <b>réseaux</b> pour les particuliers, entrepreneurs, TPE et associations"
 ---
